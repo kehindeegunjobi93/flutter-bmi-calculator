@@ -2,6 +2,9 @@
 
 A bmi calculator app
 
+<img width="186" alt="bmi1" src="https://user-images.githubusercontent.com/16244953/76546760-56a3dd00-648c-11ea-9719-fdd6620c226a.PNG">
+<img width="185" alt="bmi2" src="https://user-images.githubusercontent.com/16244953/76546764-586da080-648c-11ea-8eec-fd0eca2f98f2.PNG">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
